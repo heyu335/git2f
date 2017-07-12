@@ -10,4 +10,5 @@ public class test {
     int d =0;
     public void sum(){}
 
+    int i=0;
 }
